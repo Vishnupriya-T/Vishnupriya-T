@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vishnupriya
+- 👀 I’m interested in MLOps and Machine learning
+- 🌱 I’m currently learning Language Models.
+- 💞️ I’m looking to collaborate on language models.
